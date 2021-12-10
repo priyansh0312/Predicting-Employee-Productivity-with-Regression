@@ -6,6 +6,7 @@ Predicting the actual productivity of Garment Employees using Scikit-Learn and S
 MAE   =  0.10580920252664384
 
 MSE   =  0.02323988809579971
+
 RMSE  =  0.1524463449735667
 
 R2    = -1.7138130179186484
