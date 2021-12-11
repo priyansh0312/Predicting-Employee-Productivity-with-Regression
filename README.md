@@ -1,17 +1,7 @@
 # Predicting Productivity of Garment Employees
 ## Description
 
-Predicting the actual productivity of Garment Employees using Scikit-Learn and Seaborn. Multiple Linear Regression model was trained over 7 selected features.
-
-MAE   =  0.10580920252664384
-
-MSE   =  0.02323988809579971
-
-RMSE  =  0.1524463449735667
-
-R2    = -1.7138130179186484
-
-AdjR2 = -1.7297900499837708
+Predicting the actual productivity of Garment Employees using Scikit-Learn and Seaborn. Regression models were trained over 7 selected features from the Sequential Feature Selector
 
 
 
