@@ -1,7 +1,7 @@
 # Predicting Productivity of Garment Employees
 ## Description
 
-Predicting the actual productivity of Garment Employees using Scikit-Learn and Seaborn. Regression models were trained over 7 selected features from the Sequential Feature Selector
+Predicting the actual productivity of Garment Employees using Scikit-Learn and Seaborn. Regression models - Multiple Linear Regeression, Polynomial Linear Regression with 2 degrees, Random Forest Regression and Support Vector Regression, were trained over 7 selected features from the Sequential Feature Selector.
 
 
 
