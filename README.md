@@ -38,6 +38,5 @@ AdjR2 = -1.7297900499837708
 contributors name and contact info ex.[@priyansh0312](https://github.com/priyansh0312)
 
 ## Version History 
-* 1.0
-  * inital release (see [commit changes]() or [release history]())
+* (see [commit changes]() or [release history]())
 
