@@ -3,7 +3,7 @@
 
 Predicting the actual productivity of Garment Employees using Scikit-Learn and Seaborn. Regression models - Multiple Linear Regeression, Polynomial Linear Regression with 2 degrees, Random Forest Regression and Support Vector Regression, were trained over 7 selected features from the Sequential Feature Selector.
 
-Random Forest Regression outperformed all the other regression models with an R2 value of 0.4
+Random Forest Regression outperformed all the other regression models with R2 = 0.41816877097811733 and Adjusted R2 = 0.4147433558366933
 
 
 
