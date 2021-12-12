@@ -24,7 +24,7 @@ Random Forest Regression outperformed all the other regression models with R2 = 
 * Importing and Cleaning the dataset - filling missing values
 * Feature Selection - using Sequential Feature Selector
 * Feature Scaling - using Standard Scaler
-* Model Training and Evaluation - using Linear Regression
+* Model Training and Evaluation - using various Regression Techniques
 
 ## Authors
 contributors name and contact info ex.[@priyansh0312](https://github.com/priyansh0312)
